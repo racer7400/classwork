@@ -1,0 +1,18 @@
+img {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+body {
+    font-size: 16px;
+}
+div {
+    font-size: 1.5em;
+}
+h2 {
+    font-size: 3rem;
+}
+
+.shoeTitle {
+    font-style: italic;
+}
